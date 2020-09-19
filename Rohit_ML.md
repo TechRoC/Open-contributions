@@ -18,10 +18,11 @@ Backpropagation
 Deep Convolution Neural Networks
 Recurrent Neural Networks
 Batch Normalization
-Transfer Learning
+Activation Functions (sigmoid, tanh, relu, leaky-relu)
 Hyperparameter tuning
 Data Augmentation
 Optimization (binary_crossentropy, adam, RMS, RMSProp)
 Sequence Modelling
+Transfer Learning
 Autoencoders
 Deep Generative Models
